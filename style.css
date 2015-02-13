@@ -1,8 +1,9 @@
 html, body {
     width: 100%;
    min-height:99000000000000px;
-    background-image: url("http://rack.0.mshcdn.com/media/ZgkyMDEzLzA0LzIyL2RlL2phdmFzY3JpcHQuYzBmZmYuanBnCnAJdGh1bWIJOTUweDUzNCMKZQlqcGc/c03fd7ff/e0d/javascript.jpg");
+    background-image: url("http://p1.pichost.me/640/67/1917003.jpg");
     background-size:100% 100%;
+    background-repeat:repeat-y;
 }
 #mv-code-club-logo{
     position: absolute;
