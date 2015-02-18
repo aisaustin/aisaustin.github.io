@@ -20,6 +20,11 @@ html, body {
   border-radius: 50%;
 box-shadow: 0 0 60px yellow;
 }
+.container{
+ position:absolute;  
+ left:0;
+ right:0;
+}
 
 #teddy {
     position: absolute;
@@ -255,11 +260,6 @@ border-radius: %;
             transform: rotate(360deg);
   }
 }
-
-
-
-
-
 
 
 
