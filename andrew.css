@@ -1,6 +1,6 @@
 h1 {
-  color:#;
-
+  color:#CC0066;
+font-family: 'Oswald', sans-serif;
   font-size:100px;
 }
 
@@ -10,10 +10,10 @@ button {
 }
 
 h2 {
-  color:#;
+  color:#CC0066;
 
 }
-
+font-family: 'Oswald', sans-serif;
 html,body {
   background: url("http://highwycombecc.co.uk/wp-content/uploads/2013/10/Pattern-Blue-Dots-background-patterns-pattern-wallpapers-1920x1080.jpg") no-repeat center center fixed;
 }
