@@ -14,7 +14,9 @@ h2 {
   font-family: 'Chewy', cursive;
 }
 
-
+html,body {
+  background: url("http://highwycombecc.co.uk/wp-content/uploads/2013/10/Pattern-Blue-Dots-background-patterns-pattern-wallpapers-1920x1080.jpg") no-repeat center center fixed;
+}
 
 
 
